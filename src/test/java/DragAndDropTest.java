@@ -4,6 +4,7 @@ import static com.codeborne.selenide.Condition.matchText;
 import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.open;
 
+//comment
 public class DragAndDropTest {
     @Test
     void dragAndDropTest() {
